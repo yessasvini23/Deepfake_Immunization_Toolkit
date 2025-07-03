@@ -4,7 +4,7 @@
 
 A real-time, AI-driven cybersecurity platform that detects deepfakes, educates users, and verifies content authenticity using privacy-preserving machine learning and Web3 technologies. Built to safeguard truth in the digital age — especially during elections and public discourse.
 
-[![Watch Demo](https://youtu.be/AIr1U_D45TI?feature=shared)
+[![Watch Demo](https://img.shields.io/badge/🎬-Watch%20Demo%20Video-blue)](invideo-ai-1080%20Deepfake%20Immunization%20Toolkit%20Explainers%202025-07-02.mp4)
 
 ---
 
